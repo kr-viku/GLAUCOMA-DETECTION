@@ -19,9 +19,9 @@ class 1 for Glaucoma ( 1176 images )
 	Conversion of RGB images to Grayscale images. Conversion to grayscale images are done to improvement in testing accuracy.
 
 # Data Augmentation : 
-	Rotation, Zooming, Shearing, Horizontal and Vertical Flip are done on images of all classes. Data augmentation is done for balancing 		the classes with equal number of images .
-
-# Training the model by using CNN layers. We have used 3 convolutoinal & max pooling layer, A dropout, Dense and a Fully Connected   			Layer.
+	Rotation, Zooming, Shearing, Horizontal and Vertical Flip are done on images of all classes. Data augmentation is done for 		balancing the classes with equal number of images .
+# Model trained using CNN:
+	Training the model by using CNN layers. We have used 3 convolutoinal & max pooling layer, A dropout, Dense and a Fully Connected   	 Layer.
 
 # The program runs in Google Colab.
 
